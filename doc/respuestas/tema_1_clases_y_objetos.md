@@ -15,10 +15,6 @@ Por favor, escribe en impersonal las respuestas.
 
 # TEMA 1. Clases y objetos
 
-Perfecto, voy punto por punto y de forma clara, como suele pedirse en una asignatura de introducción a POO 👌
-
----
-
 ## 1. ¿Cuáles son las cuatro características básicas de la programación orientada a objetos?
 
 ### Respuesta
